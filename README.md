@@ -33,5 +33,5 @@ This dataset is shared under the [Creative Commons Attribution 4.0 International
 
 ## Citation
 If you use this dataset, please cite:  
-[Your Name], "HCP Retinotopy Cluster Classifications," GitHub Repository, YYYY.  
+[Ruby Barahona], "HCP Retinotopy Cluster Classifications," GitHub Repository, 2024.  
 
